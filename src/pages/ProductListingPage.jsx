@@ -1,4 +1,4 @@
-import sapato from '../../public/sapato.png';
+import sapato from '../../public/sapato.png'; 
 import ProductListing from '../components/ProductListing';
 import React from 'react';
 import styled from 'styled-components';
@@ -208,7 +208,6 @@ const ProductListPage = () => {
           <CheckboxInput type="checkbox" ></CheckboxInput>
             <label>Puma</label>
           </div>
-
 
           <h3>Categoria</h3>
           <div class="field-checkbox">
