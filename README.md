@@ -1,5 +1,5 @@
 # Projeto Front-end
-Desenvolvimento de Projeto front-end do curso geração tech terceira ediçao.
+Desenvolvimento de Projeto front-end do Curso Geração Tech Terceira Ediçao.
 
 
  # Criaçao
