@@ -11,7 +11,7 @@ Desenvolvimento de Projeto front-end do Curso Geração Tech Terceira Ediçao.
 
 ```bash
 # Clone o repositório
-$ git clone <https://github.com/uirysousa/Projeto-Digital-Store>
+$ git clone <https://github.com/Diane-Freitas/projetoFrontEnd>
 
 # Acessar a pasta do projeto no terminal cmd
 $ cd nlw1 (nome da pasta)
